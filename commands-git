@@ -1,13 +1,17 @@
-Cloner un repository:
-
+*Cloner un repository:*
 git clone <url du repo>
 
-Les 3 commandes de push:
 
+*Les 3 commandes de push*:
 git add <FICHIER>
 git commit -m <message>
 git push
 
-Pour pull :
 
-git pull
+*Pour pull *:
+git pull <url vers dossier/fichier à pull>
+
+*Créer branche et se déplacer*
+git branch <nom de la branche>
+git switch <nom de la branche>
+
