@@ -15,3 +15,7 @@ git pull <url vers dossier/fichier à pull>
 git branch <nom de la branche>
 git switch <nom de la branche>
 
+*Pour le push*
+git add "add-create-branch-command"
+git commit -m <message>
+git push origin add-create-branch-command
